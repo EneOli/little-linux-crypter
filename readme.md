@@ -1,4 +1,4 @@
-# little crypter
+# little-linux-crypter
 
 This is a demo repo showing the basic functionality of a crypter in linux. Crypter take an executable file as an input and include them into a stub. The new created file extracts the payload when running and executes it.
 
